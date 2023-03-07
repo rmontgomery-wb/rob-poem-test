@@ -13,3 +13,5 @@ unicorns exist
 on a unicorn ranch
 and they can subsist
 on this repo branch
+
+CONFLICT
